@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yifen\\source\\repos\\Shop.Core\\Shop.Core.Infrastructure\\Shop.Core.Utils.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yifen\\source\\repos\\Shop.Core\\Shop.Core.Infrastructure\\Shop.Core.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yifen\\source\\repos\\Shop.Core\\Shop.Core.Infrastructure\\Shop.Core.Utils.csproj",
+        "projectName": "Shop.Core.Utils",
+        "projectPath": "C:\\Users\\yifen\\source\\repos\\Shop.Core\\Shop.Core.Infrastructure\\Shop.Core.Utils.csproj",
+        "packagesPath": "C:\\Users\\yifen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yifen\\source\\repos\\Shop.Core\\Shop.Core.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yifen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
