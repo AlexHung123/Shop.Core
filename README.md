@@ -1,5 +1,19 @@
-# Shop.Core
-1. 技術選型,前後分離
-2. 後端採取.net core,前端選取Vue,移動端選取Uniapp
-3. 採取微服務,抽離業務（定義服務，發布和訂閱服務，治理服務，定位，監控服務）
-4. 服務治理（註冊和發現）- Consul
+This is an ecommerce back-end system made in a microservice architecture using:
+
+* .NET 5
+* Sql Sugar
+* MediatR
+* Marten
+* Consul
+* Ocelot
+* JWT Tokens
+* RestEase
+* RawRabbit
+* Polly
+* NEST (ElasticSearch client)
+
+Features and Progress
+frame module：
+
+ Using async/await;
+
