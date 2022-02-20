@@ -6,11 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using Shop.Core.Consul.Services;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Shop.Core.Consul;
 
 namespace Shop.Core.WebApi
 {
@@ -26,14 +22,8 @@ namespace Shop.Core.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //Register consul client
-            services.AddSingleton<IConsulClient>(new ConsulClient(x=> {
+            services.AddConsul(Configuration);
 
-                x.Address = new Uri(Configuration["consul:clientAddress"]);
-            }));
-
-            //Register consul service when app start
-            services.AddHostedService<ConsulRegisterService>();
             services.AddControllers();
         }
 
@@ -44,6 +34,8 @@ namespace Shop.Core.WebApi
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseConsul(lifetime);
 
             app.UseRouting();
 

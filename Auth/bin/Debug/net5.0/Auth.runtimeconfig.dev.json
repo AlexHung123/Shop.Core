@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\yifen\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yifen\\.nuget\\packages"
+    ]
+  }
+}

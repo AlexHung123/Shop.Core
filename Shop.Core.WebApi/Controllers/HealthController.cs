@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Shop.Core.WebApi.Controllers
 {
-    [Route("controller")]
+    [ApiController]
+    [Route("[controller]")]
     public class HealthController : ControllerBase
     {
         [HttpGet]

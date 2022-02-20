@@ -1,0 +1,12 @@
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\bin\Debug\net5.0\Shop.Core.Consul.deps.json
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\bin\Debug\net5.0\Shop.Core.Consul.dll
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\bin\Debug\net5.0\ref\Shop.Core.Consul.dll
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\bin\Debug\net5.0\Shop.Core.Consul.pdb
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\obj\Debug\net5.0\Shop.Core.Consul.csproj.AssemblyReference.cache
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\obj\Debug\net5.0\Shop.Core.Consul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\obj\Debug\net5.0\Shop.Core.Consul.AssemblyInfoInputs.cache
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\obj\Debug\net5.0\Shop.Core.Consul.AssemblyInfo.cs
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\obj\Debug\net5.0\Shop.Core.Consul.csproj.CoreCompileInputs.cache
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\obj\Debug\net5.0\Shop.Core.Consul.dll
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\obj\Debug\net5.0\ref\Shop.Core.Consul.dll
+C:\Users\yifen\source\repos\Shop.Core\Shop.Core.Consul\obj\Debug\net5.0\Shop.Core.Consul.pdb

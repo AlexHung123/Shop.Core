@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+dh7DpWJ1iONy/Y+6u3pxusCXPw/1+cnzLEu/t3IpQ0q0aKtHjrTm3sFPKCHzB4RZdqk4TOTL30e0r0kxc+6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yifen\\source\\repos\\Shop.Core\\Auth\\Auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yifen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
